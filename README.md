@@ -101,3 +101,7 @@
 - ```bash
   sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
   ```
+
+## :heart: Credits
+
+- [@owl4ce](https://github.com/owl4ce/)
