@@ -6,7 +6,7 @@
 > :link: **Theme 1**  ![SS](/Other/Violet(1).png)
 > :link: **Theme 2**  ![SS](/Other/Violet(2).png)
 
-## :heart: My Setup :heart:
+## :computer: My Setup :computer:
 
 - **OS :** Fedora 32
 - **DE :** KDE Plasma
