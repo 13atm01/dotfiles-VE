@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="svg7229"
+   height="100"
+   width="200"
+   sodipodi:docname="zoom.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="8.894375"
+     inkscape:cx="32.886504"
+     inkscape:cy="54.852934"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7229" />
+  <defs
+     id="defs7231">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      .ColorScheme-Background{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ViewText {
+        color:#000000;
+      }
+      .ColorScheme-ViewBackground{
+        color:#ffffff;
+      }
+      .ColorScheme-ViewHover {
+        color:#000000;
+      }
+      .ColorScheme-ViewFocus{
+        color:#5a5a5a;
+      }
+      .ColorScheme-ButtonText {
+        color:#000000;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#E9E8E8;
+      }
+      .ColorScheme-ButtonHover {
+        color:#1489ff;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#2B74C7;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata7234">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-214.53572,-326.50504)"
+     id="layer1">
+    <g
+       transform="matrix(0.72727273,0,0,0.72727273,30.509752,97.501373)"
+       id="16-16-zoom-fit-width">
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3791"
+         width="22"
+         height="22"
+         x="258.53571"
+         y="335.50504" />
+      <path
+         class="ColorScheme-Text"
+         style="fill:#7845ab;fill-opacity:1"
+         d="m 259.91072,336.88004 0,19.25 1.39219,0 0,-9.625 0,-9.625 z m 1.39219,9.625 2.75859,2.8875 0,-1.49531 2.73281,0 0,1.39218 5.48282,0 0,-1.39218 2.77578,0 0,1.49531 2.75859,-2.8875 -2.75859,-2.8875 0,1.53828 -2.77578,0 0,-1.39219 -5.48282,0 0,1.39219 -2.73281,0 0,-1.53828 z m 16.50859,0 0,9.625 1.34922,0 0,-19.25 -1.34922,0 z m -9.625,-1.34922 2.74141,0 0,2.74141 -2.74141,0 z"
+         id="rect2996" />
+    </g>
+    <g
+       transform="translate(-39.999986,30)"
+       id="zoom-fit-width">
+      <rect
+         y="335.50504"
+         x="258.53571"
+         height="22"
+         width="22"
+         id="rect3805"
+         style="fill:#ffffff;fill-opacity:0;stroke:none" />
+      <path
+         class="ColorScheme-Text"
+         id="path3807"
+         transform="translate(214.53572,326.50504)"
+         d="m 45,10 0,20 1,0 0,-10 0,-10 -1,0 z m 1,10 3,3 0,-2 4,0 0,1 4,0 0,-1 4,0 0,2 3,-3 -3,-3 0,2 -4,0 0,-1 -4,0 0,1 -4,0 0,-2 -3,3 z m 18,0 0,10 1,0 0,-20 -1,0 0,10 z m -10,-1 2,0 0,2 -2,0 0,-2 z"
+         style="fill:#7845ab;fill-opacity:1" />
+    </g>
+    <g
+       id="16-16-zoom-fit-height"
+       transform="matrix(0,0.72727273,-0.72727273,0,512.52687,153.47907)">
+      <rect
+         y="335.50504"
+         x="258.53571"
+         height="22"
+         width="22"
+         id="rect3811"
+         style="fill:#ffffff;fill-opacity:0;stroke:none" />
+      <path
+         id="path3813"
+         d="m 259.91072,336.88004 0,19.25 1.39219,0 0,-9.625 0,-9.625 z m 1.39219,9.625 2.75859,2.8875 0,-1.49531 2.73281,0 0,1.39218 5.48282,0 0,-1.39218 2.77578,0 0,1.49531 2.75859,-2.8875 -2.75859,-2.8875 0,1.53828 -2.77578,0 0,-1.39219 -5.48282,0 0,1.39219 -2.73281,0 0,-1.53828 z m 16.50859,0 0,9.625 1.34922,0 0,-19.25 -1.34922,0 z m -9.625,-1.34922 2.74141,0 0,2.74141 -2.74141,0 z"
+         style="fill:#7845ab;fill-opacity:1"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       id="g3815"
+       transform="matrix(0,1,-1,0,610.02824,106.96933)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         id="rect3817"
+         width="22"
+         height="22"
+         x="258.53571"
+         y="335.50504" />
+      <path
+         style="fill:#7845ab;fill-opacity:1"
+         d="m 45,10 0,20 1,0 0,-10 0,-10 -1,0 z m 1,10 3,3 0,-2 4,0 0,1 4,0 0,-1 4,0 0,2 3,-3 -3,-3 0,2 -4,0 0,-1 -4,0 0,1 -4,0 0,-2 -3,3 z m 18,0 0,10 1,0 0,-20 -1,0 0,10 z m -10,-1 2,0 0,2 -2,0 0,-2 z"
+         transform="translate(214.53572,326.50504)"
+         id="zoom-fit-height"
+         class="ColorScheme-Text" />
+    </g>
+  </g>
+</svg>
