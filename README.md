@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://ibb.co/8MGT7jS"><img src="https://i.ibb.co/Wn7q2cY/Dotfiles.png" width="75%"></a>
+<a href="https://ibb.co/8MGT7jS" title="dotfiles"><img src="https://i.ibb.co/Wn7q2cY/Dotfiles.png" width="75%"></a>
 </p>
 
 ## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/dotfiles?style=flat-square&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
@@ -9,7 +9,7 @@
   
 ## :computer: My Setup :computer:
 
-<a href="https://ibb.co/TPtsTLX"><img src="https://i.ibb.co/XFtq48B/VE17.png" width="22%" align="right"></a>
+<a href="https://ibb.co/TPtsTLX" title="she's not Saber"><img src="https://i.ibb.co/XFtq48B/VE17.png" width="22%" align="right"></a>
 
 - **OS :** Fedora 32
 - **DE :** KDE Plasma
