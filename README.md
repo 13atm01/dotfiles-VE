@@ -2,7 +2,7 @@
 <a href="https://ibb.co/8MGT7jS" title="dotfiles"><img src="https://i.ibb.co/Wn7q2cY/Dotfiles.png" width="75%"></a>
 </p>
 
-## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/dotfiles-VE?style=flat-square&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
+## :art: Screenshot <img alt="Visits" src="https://badges.strrl.dev/visits/13atm01/dotfiles-VE?style=plastic&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
 
 :link: ***Theme 1*** <a href="https://www.deviantart.com/13andi01/art/My-Desktop-Violet-Evergarden-1-861259352"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/de8rryw-937c1f85-2210-46f8-bd70-94389d2d8ada.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZThycnl3LTkzN2MxZjg1LTIyMTAtNDZmOC1iZDcwLTk0Mzg5ZDJkOGFkYS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.9QEGXNdEaDcMxTSRsdMMsMoIq7QezG5iGOBaKNjiUuk"></a>
 
